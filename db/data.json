@@ -1,0 +1,52 @@
+[
+  {
+    "title": "C++",
+    "content": "C++ is a geate language",
+    "date": "2020-01-01"
+  },
+  {
+    "title": "Java",
+    "content": "Java is a geate language",
+    "date": "2020-01-02"
+  },
+  {
+    "title": "Python",
+    "content": "Python is a geate language",
+    "date": "2020-01-03"
+  },
+  {
+    "title": "JavaScript",
+    "content": "JavaScript is a geate language",
+    "date": "2020-01-04"
+  },
+  {
+    "title": "C#",
+    "content": "C# is a geate language",
+    "date": "2020-01-05"
+  },
+  {
+    "title": "Go",
+    "content": "Go is a geate language",
+    "date": "2020-01-06"
+  },
+  {
+    "title": "Rust",
+    "content": "Rust is a geate language",
+    "date": "2020-01-07"
+  },
+  {
+    "title": "Kotlin",
+    "content": "Kotlin is a geate language",
+    "date": "2020-01-08"
+  },
+  {
+    "title": "Swift",
+    "content": "Swift is a geate language",
+    "date": "2020-01-09"
+  },
+  {
+    "title": "TypeScript",
+    "content": "TypeScript is a geate language",
+    "date": "2020-01-10"
+  }
+]
